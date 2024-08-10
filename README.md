@@ -1,4 +1,4 @@
-👋 Hi, I’m @insinc
+👋 Hi, We're @insinc
 👀 Interested in redefining customer engagement? We leverage our patented Action Command Messaging (ACM)® technology to power dynamic, real-time interactions via video-enabled surveys, creating compelling user-generated content.
 🌱 Currently deepening our expertise in Python and React, using AWS for scalable cloud infrastructure. We’re focused on building robust back-end APIs that integrate seamlessly with CRMs and developing sophisticated multi-tenant dashboards for nuanced data analysis.
 💞️ Looking to collaborate with developers who are into AI, machine learning, and constructing scalable web applications that significantly impact how businesses interact with customers. If you’re keen on developing solutions that advance business technologies, let’s connect.
